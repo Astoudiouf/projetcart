@@ -1,0 +1,83 @@
+nav ul {
+  gap: 80px;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  
+}
+nav a {
+  font-size: 20px;
+  color: black;
+  text-decoration:none ;
+}
+li img {
+  margin-top: 5px;
+}
+/* CLASS P  */
+.menu {
+  display: flex;
+  justify-content:end;
+}
+/* class section title */
+.menu2 {
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: 2px;
+  background-color: green;
+  padding: 2px 2px 2px 2px;
+  width: 200px;
+  height: 80px;
+
+}
+li img {
+  width: 30px;
+  height: 20px;
+}
+
+/* class SECTION PRINCIPAL DE TOUT LES DIV */
+.A1 {
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  
+}
+/* class de tout les div du section1 */
+.A2 {
+  background-color:black;
+  color: #fff;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  line-height: 10px;
+  padding: 30px;
+  width: 250px;
+  height: 250px;
+  margin-left: 50px;
+}
+div img {
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+}
+.footer{
+
+  background-color: green;
+
+  display: flex;
+  padding: 20px;
+  gap: 40px;
+  
+}
+div h3 {
+color: black;
+font-size: 30px;
+margin: 10px;
+display: flex;
+justify-content: center;
+}
+div ul {
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+ 
+}
